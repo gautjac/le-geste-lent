@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Le Geste Lent">
+  <rect width="512" height="512" rx="112" fill="#F4F0E6"/>
+  <!-- enso: an open brush ring, the breath of the practice -->
+  <path d="M256 120
+           a136 136 0 1 0 96 40"
+        fill="none" stroke="#7C9885" stroke-width="26" stroke-linecap="round"/>
+  <!-- the slow standing figure -->
+  <g stroke="#2B2A26" stroke-width="15" stroke-linecap="round" fill="none">
+    <circle cx="256" cy="206" r="26" fill="#F4F0E6"/>
+    <path d="M256 232 V322"/>
+    <path d="M256 252 L212 296 M256 252 L300 296"/>
+    <path d="M256 322 L226 392 M256 322 L286 392"/>
+  </g>
+</svg>
